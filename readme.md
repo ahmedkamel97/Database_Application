@@ -1,8 +1,8 @@
-##About this project:
+## About this project:
 
 In this project I build a mock database system for a large franchised real estate company. This means that the company has many offices located all over the country. Each office is responsible for selling houses in a particular area. However an estate agent can be associated with one or more offices.
 
-###Every month the following reports need to be run:
+### Every month the following reports need to be run:
 
 1) Find the top 5 offices with the most sales for that month.
 2) Find the top 5 estate agents who have sold the most (include their contact details and their sales details so that it is easy contact them and congratulate them).
@@ -11,25 +11,25 @@ In this project I build a mock database system for a large franchised real estat
 5) For all houses that were sold that month, calculate the average selling price
 6) Find the zip codes with the top 5 average sales prices
 
-##Data Normalization:
+## Data Normalization:
 
 Meanwhile designing and creating the tables for the database, I followed the Normalization guidelines. I mainly followed the 3NF guidelines. All the tables are assured to be in the First Normalization form, Second Normalization form, and the third Normalization form.
 
-###All the tables follow the first normal form rules as:
+### All the tables follow the first normal form rules as:
 1) Each table cell only contain a single value
 
 2) Each record is unique
-###All the tables follow the second normal form rules as:
+### All the tables follow the second normal form rules as:
 1) The tables are in the first normal form
 
 2) There is a single column Primary Key
 
-###All the tables follow the third normal form rules as:
+### All the tables follow the third normal form rules as:
 1) The tables are in the second normal form
 
 2) There are no transitive functional dependencies
 
-##Additional Features:
+## Additional Features:
 
 1) The entire project is divided into multiple files where each file is focused to doing one task to achieve a proper implementation of #separationofconcerns and #Breakitdown
 
@@ -41,7 +41,7 @@ Meanwhile designing and creating the tables for the database, I followed the Nor
   
 #########################################################################
 
-##Files included in this project:
+## Files included in this project:
 
 1) README.md: The description of the project and all the individual files
 
