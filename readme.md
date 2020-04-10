@@ -90,3 +90,5 @@ Meanwhile designing and creating the tables for the database, I followed the Nor
 6) Run the file Query.py to preview the results of all the queries
 
 ########################################################################
+
+![](ER%20Diagram.png)
