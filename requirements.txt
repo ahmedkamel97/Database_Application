@@ -1,4 +1,4 @@
-numpy==1.18.2
+numpy==1.22.0
 pandas==1.0.3
 pydot==1.4.1
 pyparsing==2.4.7
